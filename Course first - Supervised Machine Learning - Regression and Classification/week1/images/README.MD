@@ -13,5 +13,5 @@ Supervised learning part 2
 
 ![](../images/Supervised%20learning%20part%202_1.png)
 
-
+![](../images/Linear%20regression%20model%20part%201.png)
 
